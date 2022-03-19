@@ -1,0 +1,6 @@
+bin/
+.vscode/
+
+*.exe
+*.o
+*.abf
