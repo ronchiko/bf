@@ -40,7 +40,6 @@ static struct {
 	{ "--opt", &HandleOptimizationArgument,		false },
 
 	{ "--generate", &HandleGenerateArgument,	true },
-	{ "--debug", 	 &HandleDebugArgument,		true },
 	
 	{ NULL, NULL, false }
 };
